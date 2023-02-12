@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1054438612254",
+    "project_id": "farel-prayoga-fake-call",
+    "storage_bucket": "farel-prayoga-fake-call.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054438612254:android:d2a8dbee3c81078e03bd0f",
+        "android_client_info": {
+          "package_name": "com.farelprayoga.fake.call.bangsindev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054438612254-ugfcmao953kudrc55ue8vn6nk566tvkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8cdaii5qJ1uV2TEbg-bEPIeE4TF9wbvg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054438612254-ugfcmao953kudrc55ue8vn6nk566tvkt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
