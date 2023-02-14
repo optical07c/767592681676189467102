@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "600926079579",
+    "project_id": "cosmos-wallpaper",
+    "storage_bucket": "cosmos-wallpaper.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600926079579:android:6f992a89fc05b3a7f48d7e",
+        "android_client_info": {
+          "package_name": "com.bangsindev.walstack.wallpaper.sta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600926079579-smr8g1h39seh3q0equd0n9r15u36gf7g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5zBGHHcSvw3vWYy4u3XRbT4LDWxCrr34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600926079579-smr8g1h39seh3q0equd0n9r15u36gf7g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
