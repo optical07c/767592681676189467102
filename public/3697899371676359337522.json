@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "321545908057",
+    "project_id": "melmod-isal",
+    "storage_bucket": "melmod-isal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321545908057:android:01a0dff31742a5e3026648",
+        "android_client_info": {
+          "package_name": "com.isaldeveloper.modsformelons.play"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321545908057-r14ra4ir9chcejn02tjht5nl096pm597.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC617kF2DZK_jo0vnLAxdqTcFHyPRUfu1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321545908057-r14ra4ir9chcejn02tjht5nl096pm597.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
